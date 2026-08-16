@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /coupon-kr/
+Disallow: /coupon-kr/affiliate/
+Disallow: /coupon-kr/privacy/
+
+Sitemap: https://tobymsg.github.io/coupon-kr/sitemap-index.xml
